@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS el_db;
+
+CREATE DATABASE el_db;
+
+USE el_db;
